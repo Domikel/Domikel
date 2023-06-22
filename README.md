@@ -3,10 +3,7 @@
 
 
 <div  align="center">
-
-<h2> Tools:</h2>
-
-
+  
 <h3 style="color:red">Frontend</h3>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="50" height="50"/>
@@ -14,12 +11,26 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="50" height="50"/>
-<img src="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50"/>
 
 <h3  font-weight="bold">Backend</h3>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" height="50"/>
+
+
+<h3>Others:</h3>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50"/>
 
 
 </div>
+
+<h2>Projects: </h2>
 
 
 
