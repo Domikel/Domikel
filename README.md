@@ -6,7 +6,7 @@
 
 <h2> </h2>
 
-    <img src="https://github.com/vorillaz/devicons/blob/master/!PNG/html5.png" alt="">#
+    <img src="https://github.com/vorillaz/devicons/blob/master/!PNG/html5.png" alt="">
 
     <img src="" alt="">
 
