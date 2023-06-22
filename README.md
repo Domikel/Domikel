@@ -1,10 +1,12 @@
 <h1 align="center" color="red"><span style="color:red; font-family="oswald">Hello, I'm Miguel</span></h1>
-<p>I am a digital design student and frontend developer.I have a genuine passion for creating engaging user experiences that leave a positive impact </p>
+<p  align="center">I am a digital design student and frontend developer.I have a genuine passion for creating engaging user experiences that leave a positive impact </p>
 
 
 <div  align="center">
 
+<h2> Tools:</h2>
 
+<h3 color="red">Frontend</h3>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="50" height="50"/>
