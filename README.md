@@ -1,4 +1,5 @@
 <h1 align="center" color="red"><span style="color:red; font-family="oswald">Hello, I'm Miguel</span></h1>
+<p>I am a digital design student and frontend developer.I have a genuine passion for creating engaging user experiences that leave a positive impact </p>
 
 
 
