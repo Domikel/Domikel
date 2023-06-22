@@ -2,7 +2,7 @@
 <p>I am a digital design student and frontend developer.I have a genuine passion for creating engaging user experiences that leave a positive impact </p>
 
 
-<div aling="center">
+<div  align="center">
 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="50" height="50"/>
