@@ -2,6 +2,18 @@
 <p>I am a digital design student and frontend developer.I have a genuine passion for creating engaging user experiences that leave a positive impact </p>
 
 
+<div aling="center">
+
+<h2> </h2>
+
+    <img src="https://github.com/vorillaz/devicons/blob/master/!PNG/html5.png" alt="">#
+
+    <img src="" alt="">
+
+</div>
+
+
+
 
 <!--
 **Domikel/Domikel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
