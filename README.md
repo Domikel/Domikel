@@ -1,4 +1,4 @@
-<h1 align="center"><span style="color:red; font-family="oswald">Hello, I'm Miguel</span></h1>
+<h1 align="center" color="red"><span style="color:red; font-family="oswald">Hello, I'm Miguel</span></h1>
 
 
 
