@@ -5,7 +5,7 @@
 <div  align="center">
 
 <h2> Tools:</h2>
-<span style="color:red">Hello, I'm Miguel</span>
+
 
 <h3 style="color:red">Frontend</h3>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="50" height="50"/>
@@ -15,6 +15,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="50" height="50"/>
 <img src="" width="50" height="50"/>
+
+<h3  font-weight="bold">Backend</h3>
+
+
 </div>
 
 
