@@ -1,4 +1,4 @@
-<h1 align:"center"> Hello, I'm Miguel </h1>
+<h1 align:"center" color="red"> Hello, I'm Miguel </h1>
 
 <!--
 **Domikel/Domikel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
