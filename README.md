@@ -6,6 +6,12 @@
 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="50" height="50"/>
+<img src="" width="50" height="50"/>
 </div>
 
 
