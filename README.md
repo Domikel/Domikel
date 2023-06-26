@@ -27,7 +27,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" height="50"/>
 
 
-<h3>Others:</h3>
+<h3>Others</h3>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50"/>
 
